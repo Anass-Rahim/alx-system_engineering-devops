@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir /tmp/iamafile/
+file /tmp/iamafile/

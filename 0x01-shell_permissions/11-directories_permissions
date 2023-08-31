@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -al dir 777

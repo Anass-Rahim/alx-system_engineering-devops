@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x get_current_user.sh
+current_user=root

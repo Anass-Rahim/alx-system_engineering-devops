@@ -1,3 +1,2 @@
 #!/bin/bash
-chgrp -s/_hello vicent staff
-chmod u -s/_hello vincent staff
+chown -h "$vincent":"$staff" "$_hello"

@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -al dir 777
+find "$current_directory" -type d -exec chmod a+rx {}

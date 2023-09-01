@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u vincent 
-chgrp staff
+find "$working_directory" -exec chown vincent:staff {}

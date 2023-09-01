@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x get_user_groups.sh
+user_groups=$(groups)

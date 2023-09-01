@@ -1,2 +1,2 @@
 #!/bin/bash
-find "$working_directory" -exec chown vincent:staff {}
+find "$working_directory" chown vincent:staff {}
